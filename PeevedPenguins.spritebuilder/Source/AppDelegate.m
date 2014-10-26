@@ -54,8 +54,8 @@
     
     [self setupCocos2dWithOptions:cocos2dSetup];
     
-    [CCBReader load:@"Pengiun"];
-    [CCBReader load:@"Seal"];
+    /*[CCBReader load:@"Pengiun"];
+    [CCBReader load:@"Seal"];*/
     
     return YES;
 }
