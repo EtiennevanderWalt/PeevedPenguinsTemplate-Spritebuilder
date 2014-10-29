@@ -38,6 +38,7 @@
 		B77F1B4217B978D7009739AE /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B77F1B4117B978D7009739AE /* CoreText.framework */; };
 		FE80B46019FCD91700261E22 /* Seal.m in Sources */ = {isa = PBXBuildFile; fileRef = FE80B45F19FCD91700261E22 /* Seal.m */; };
 		FE80B46319FCD95000261E22 /* Penguin.m in Sources */ = {isa = PBXBuildFile; fileRef = FE80B46219FCD95000261E22 /* Penguin.m */; };
+		FE9D55511A00D5CE00D3999D /* Gameplay.m in Sources */ = {isa = PBXBuildFile; fileRef = FE9D55501A00D5CE00D3999D /* Gameplay.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -96,6 +97,8 @@
 		FE80B45F19FCD91700261E22 /* Seal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Seal.m; sourceTree = "<group>"; };
 		FE80B46119FCD95000261E22 /* Penguin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Penguin.h; sourceTree = "<group>"; };
 		FE80B46219FCD95000261E22 /* Penguin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Penguin.m; sourceTree = "<group>"; };
+		FE9D554F1A00D5CE00D3999D /* Gameplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Gameplay.h; sourceTree = "<group>"; };
+		FE9D55501A00D5CE00D3999D /* Gameplay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Gameplay.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +142,8 @@
 				FE80B45F19FCD91700261E22 /* Seal.m */,
 				FE80B46119FCD95000261E22 /* Penguin.h */,
 				FE80B46219FCD95000261E22 /* Penguin.m */,
+				FE9D554F1A00D5CE00D3999D /* Gameplay.h */,
+				FE9D55501A00D5CE00D3999D /* Gameplay.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -355,6 +360,7 @@
 				B7378994180767190076A88C /* MainScene.m in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,
 				FE80B46019FCD91700261E22 /* Seal.m in Sources */,
+				FE9D55511A00D5CE00D3999D /* Gameplay.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
